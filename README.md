@@ -1,3 +1,5 @@
+[[/CharlesX0101]](https://charlesx0101.com/) [[/About]](http://charlesx0101.com/about) [[/Labs]](https://charlesx0101.com/labs) [[/Projects]](https://charlesx0101.com/projects) [[/Contact]](https://charlesx0101.com/contact) 
+
 # Project-Scaffold-Gen-I
 
 `project-scaffold-gen-i` is a lightweight Bash-based CLI tool that generates a custom scaffold for new projects, labs, or general folders. It prompts the user for project-specific information and creates a clean folder and file structure based on the input.
